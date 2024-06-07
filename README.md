@@ -20,7 +20,7 @@ This project consists of a user time tracking system that generates, processes, 
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/user-time-tracking-kafka.git
+    git clone https://github.com/IvanFilipchuk/User-Time-Tracking-Kafka.git
     cd user-time-tracking-kafka
     ```
 
