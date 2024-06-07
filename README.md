@@ -17,5 +17,15 @@ This project consists of a user time tracking system that generates, processes, 
 
 ## Setup
 
-1. **Clone the Repository*
-2. **Build and Run with Docker Compose*
+1. **Clone the Repository**
+
+    ```sh
+    git clone https://github.com/yourusername/user-time-tracking-kafka.git
+    cd user-time-tracking-kafka
+    ```
+
+2. **Build and Run with Docker Compose**
+
+    ```sh
+    docker-compose up --build
+    ```
